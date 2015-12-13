@@ -8,6 +8,8 @@
 
 #import "AppDelegate.h"
 
+#import <RestKit/RestKit.h>
+
 @interface AppDelegate ()
 
 @end
